@@ -4,7 +4,7 @@ function Header() {
   return (
     <header>
       {" "}
-      <h1>Static Notes </h1>{" "}
+      <h1>Static Notes and Dynamic Cards</h1>{" "}
     </header>
   );
 }
